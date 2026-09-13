@@ -1,0 +1,1 @@
+const percentage = 89;
